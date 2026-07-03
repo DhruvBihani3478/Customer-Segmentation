@@ -12,7 +12,9 @@ st.set_page_config(
     page_title="Customer Segmentation Dashboard",
     page_icon="🛍️",
     layout="wide"
+
 )
+
 
 # ---------------------------------------------------
 # Load Data
