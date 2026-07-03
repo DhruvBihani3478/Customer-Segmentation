@@ -1,5 +1,12 @@
 # 🛍️ Customer Segmentation using K-Means Clustering
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-KMeans-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+🚀 **Live Demo:** https://customer-segmentation-dhruvbihani.streamlit.app
+
 ## 📌 Project Overview
 
 This project focuses on segmenting mall customers into distinct groups based on their purchasing behavior and demographic attributes. The goal is to understand customer patterns and design more effective marketing strategies using data-driven insights.
