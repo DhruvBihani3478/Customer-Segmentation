@@ -5,7 +5,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-🚀 **Live Demo:** https://customer-segmentation-dhruvbihani.streamlit.app
+🚀 **Live Demo:** https://customer-segmentation-dhruvbihani.streamlit.app/
 
 ## 📌 Project Overview
 
