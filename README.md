@@ -1,3 +1,4 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-segmentation-dhruvbihani.streamlit.app/)
 # 🛍️ Customer Segmentation using K-Means Clustering
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
@@ -5,7 +6,13 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-🚀 **Live Demo:** https://customer-segmentation-dhruvbihani.streamlit.app/
+## 🌐 Live Demo
+
+Try the deployed Streamlit application here:
+
+👉 https://customer-segmentation-dhruvbihani.streamlit.app/
+
+Predict customer segments interactively by adjusting Annual Income and Spending Score.
 
 ## 📌 Project Overview
 
